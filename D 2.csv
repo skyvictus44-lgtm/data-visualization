@@ -1,0 +1,51 @@
+Customer_ID,Name,Age,Total_Purchases,Number_of_Purchases,Purchase_Categories,Last_Purchase_Date
+C001,John Doe,25,1500.5,5,"Electronics, Clothing",15-12-2023
+C002,Jane Smith,30,2200,8,"Books, Groceries",20-11-2023
+C003,Alex Johnson,-5,500,3,Electronics,05-10-2023
+C004,Maria Garcia,,0,0,,
+C005,David Lee,45,-200,2,"Clothing, Clothing",30-09-2023
+C006,Emily Chen,28,,6,"Groceries, Electronics",01-12-2023
+C007,Michael Brown,50,3000,10,"Books, Clothing, Groceries",15-11-2023
+C008,Sarah Wilson,22,,4,Electronics,22-08-2023
+C009,Robert Taylor,,1200,"""three""",Books,12/25/2023
+C010,Lisa Anderson,35,2500.5,7,"Groceries, Clothing",10-07-2023
+C011,Kevin Martinez,40,900,5,"Electronics, Books",18-06-2023
+C012,Anna Rodriguez,27,,6,,12-05-2023
+C013,Brian Davis,55,3500,12,"Groceries, Electronics, Books",08-04-2023
+C014,Olivia Miller,19,400,2,Books,25-03-2023
+C015,Daniel Wilson,,-50,1,,02/14/2023
+C016,Sophia Moore,33,,,"Clothing, Groceries",10-02-2023
+C017,James Taylor,60,2800,8,"Electronics, Books",05-01-2023
+C018,Isabella Clark,24,1100.5,5,,20-12-2022
+C019,William Lewis,38,1900,7,"Clothing, Electronics",15-11-2022
+C020,Ava Hall,29,,4,"Books, Groceries",30-10-2022
+C021,Ethan Young,42,2400,10,Electronics,22-09-2022
+C022,Mia King,,0,0,,
+C023,Noah Wright,31,1700,6,Clothing,18-08-2022
+C024,Charlotte Hill,26,1300,,"Groceries, Books",12-07-2022
+C025,,48,3200,,"Electronics, Clothing, Groceries",08-06-2022
+C026,Amelia Green,21,600,3,Books,25-05-2022
+C027,Mason Adams,37,2000,8,"Clothing, Electronics",20-04-2022
+C028,Harper Baker,34,1500,6,Groceries,15-03-2022
+C029,Elijah Nelson,52,2700,9,"Books, Electronics",10-02-2022
+C030,Evelyn Carter,23,900,4,Clothing,05-01-2022
+C031,Lucas Mitchell,,-100,2,,01-01-2022
+C032,Aria Perez,36,2200,7,"Groceries, Books",20-12-2021
+C033,Jack Roberts,41,1800,,"Electronics, Clothing",15-11-2021
+C034,Scarlett Turner,28,1400,5,Books,30-10-2021
+C035,Henry Phillips,49,2600,10,,22-09-2021
+C036,Victoria Campbell,30,1000,4,Electronics,18-08-2021
+C037,Levi Parker,44,2300,8,"Groceries, Books",12-07-2021
+C038,Luna Evans,25,,5,Clothing,08-06-2021
+C039,Asher Edwards,53,,,"Electronics, Clothing, Books",25-05-2021
+C040,Mila Collins,32,1600,6,Groceries,20-04-2021
+,Leo Stewart,,0,0,,
+C042,Nora Sanchez,39,,7,"Books, Electronics",15-03-2021
+C043,,27,800,3,Clothing,10-02-2021
+C044,Ellie Rogers,46,2500,9,,05-01-2021
+C045,Grayson Reed,35,1900,7,,20-12-2020
+C046,Stella Cook,22,,4,Books,15-11-2020
+C047,Mateo Morgan,51,,10,"Clothing, Groceries",30-10-2020
+C048,Hazel Bell,29,1300,5,Electronics,22-09-2020
+C049,Theodore Murphy,43,2400,,"Groceries, Books",18-08-2020
+C050,Aurora Bailey,26,1100,5,Clothing,12-07-2020
